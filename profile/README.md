@@ -1,12 +1,9 @@
-## Hi there 👋
+## Tina Linux
 
-<!--
+### Allwinner Tina Linux
 
-**Here are some ideas to get you started:**
+Tina Linux is an embedded software system developed by Allwinner based on the Linux kernel for intelligent hardware products. Tina Linux is a software development kit based on the openwrt-14.07 version, which includes the kernel source code, drivers, tools, system middleware and application packages for Linux system development.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### This Repository
+
+Place Unofficial Allwinner Tina Linux repository, Allwinner does not actively participate in or support this community.
