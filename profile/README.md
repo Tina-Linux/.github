@@ -6,4 +6,4 @@ Tina Linux is an embedded software system developed by Allwinner based on the Li
 
 ### This Repository
 
-Place Unofficial Allwinner Tina Linux repository, Allwinner does not actively participate in or support this community.
+Place Unofficial Allwinner Tina Linux repository, **Allwinner does not actively participate in or support this community. Its source code is collected from the Internet**
